@@ -1,0 +1,49 @@
+2023-08-21 09:25:51  WM_QUERYENDSESSION (lParam: 2147483648 - ENDSESSION_LOGOFF) =====================================
+2023-08-21 09:25:51  WM_ENDSESSION (wParam: TRUE, lParam: 2147483648 - ENDSESSION_LOGOFF)
+2023-08-21 09:25:51  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-08-21 09:25:51  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9483/9483 bytes are written.
+2023-08-21 09:25:51  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-08-21 09:25:51  WM_DESTROY (isEndSessionStarted == true)
+2023-09-24 00:05:28  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2023-09-24 00:05:28  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2023-09-24 00:05:28  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-09-24 00:05:28  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9914/9914 bytes are written.
+2023-09-24 00:05:28  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-09-24 00:05:28  WM_DESTROY (isEndSessionStarted == true)
+2023-09-26 10:38:49  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-09-26 10:38:49  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-09-26 10:38:49  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-09-26 10:38:49  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9407/9407 bytes are written.
+2023-09-26 10:38:49  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-09-26 10:38:49  WM_DESTROY (isEndSessionStarted == true)
+2023-10-22 00:25:54  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2023-10-22 00:25:54  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2023-10-22 00:25:54  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-10-22 00:25:54  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9471/9471 bytes are written.
+2023-10-22 00:25:54  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-10-22 00:25:54  WM_DESTROY (isEndSessionStarted == true)
+2023-10-31 17:12:34  WM_QUERYENDSESSION (lParam: 2147483648 - ENDSESSION_LOGOFF) =====================================
+2023-10-31 17:12:36  WM_ENDSESSION (wParam: TRUE, lParam: 3221225472 - ENDSESSION_CRITICAL - ENDSESSION_LOGOFF)
+2023-10-31 17:12:36  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-10-31 17:12:36  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9710/9710 bytes are written.
+2023-10-31 17:12:36  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-10-31 17:12:36  WM_DESTROY (isEndSessionStarted == true)
+2023-11-10 14:43:12  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-11-10 14:43:14  WM_ENDSESSION (wParam: TRUE, lParam: 1073741824 - ENDSESSION_CRITICAL)
+2023-11-10 14:43:14  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-11-10 14:43:14  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9730/9730 bytes are written.
+2023-11-10 14:43:14  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-11-10 14:43:14  WM_DESTROY (isEndSessionStarted == true)
+2023-11-14 18:06:06  WM_QUERYENDSESSION (lParam: 1 - ENDSESSION_CLOSEAPP) =====================================
+2023-11-14 18:06:08  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2023-11-14 18:06:08  Main Notepad++ wnd is disabled by (an active modal-dlg?):  Notepad++ - Windows session exit
+2023-11-14 18:06:08  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2023-11-14 18:06:08  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-11-14 18:06:08  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9512/9512 bytes are written.
+2023-11-14 18:06:08  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
+2023-11-14 18:06:08  WM_DESTROY (isEndSessionStarted == true)
+2023-12-12 23:22:02  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2023-12-12 23:22:03  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2023-12-12 23:22:03  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is opened.
+2023-12-12 23:22:03  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml  9497/9497 bytes are written.
+2023-12-12 23:22:03  C:\Users\nikita.smith\AppData\Roaming\Notepad++\config.xml is closed.
